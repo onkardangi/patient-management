@@ -1,0 +1,12 @@
+### PUT request to update patient
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "Aarav Patel",
+  "email": "aarav.patel@example",
+  "address": "742 Evergreen Terrace, San Jose, CA",
+  "dateOfBirth": "1992-09-14"
+}
+
+###

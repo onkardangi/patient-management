@@ -1,0 +1,14 @@
+### POST request to create patient
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Aarav Patel",
+  "email": "aarav.patel@example.com",
+  "address": "742 Evergreen Terrace, San Jose, CA",
+  "dateOfBirth": "1992-09-14",
+  "registeredDate": "2026-01-22"
+}
+
+
+###
