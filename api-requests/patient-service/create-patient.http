@@ -3,11 +3,11 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Aarav Patel",
-  "email": "aarav.patel@example.com",
+  "name": "Donald Trump Jr",
+  "email": "dtrumpjr@example.com",
   "address": "742 Evergreen Terrace, San Jose, CA",
-  "dateOfBirth": "1992-09-14",
-  "registeredDate": "2026-01-22"
+  "dateOfBirth": "1992-09-15",
+  "registeredDate": "2026-01-25"
 }
 
 
